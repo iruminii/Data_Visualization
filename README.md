@@ -2,8 +2,8 @@
 #### FCC Data Visualization Projects
 HTML, CSS, JS
 
-1. [Scatter Plot](https://codepen.io/iruminii/pen/qBQOYYO)
+1. [Scatter Plot](https://github.com/iruminii/Data_Visualization/tree/main/Scatter)
 2. [Bar Graph](https://github.com/iruminii/Data_Visualization/tree/main/Bar)
-3. [Heat Map](https://codepen.io/iruminii/pen/rNQOPPW)
-4. [Choropleth](https://codepen.io/iruminii/pen/oNQbQMa)
-5. [Treemap Diagram](https://codepen.io/iruminii/pen/poQgBaL)
+3. [Heat Map](https://github.com/iruminii/Data_Visualization/tree/main/Heatmap)
+4. [Choropleth](https://github.com/iruminii/Data_Visualization/tree/main/Choropleth)
+5. [Treemap Diagram](https://github.com/iruminii/Data_Visualization/tree/main/Treemap)
