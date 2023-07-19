@@ -1,0 +1,65 @@
+/*styles.css*/
+body {
+  background-color: #E9E3E8;
+}
+
+.title {
+  font-family: "Courier New";
+  text-align: center;
+  font-size: 2rem;
+  margin: 1rem;
+  padding: 0.5rem;
+}
+.subheading {
+  font-size: 1.4rem;
+  display: inline-block;
+  text-align: right;
+  margin: 0.7rem
+}
+
+.subtitle {
+  font-family: "Courier New";
+  text-align: center;
+  font-size: 1.3rem;
+  color: #262729;
+  padding: 0.2rem;
+  margin: 0.2rem;
+}
+
+.chart {
+  background-color: #FFFFFF94;
+  justify-content: center;
+  text-align: center;
+  display: block;
+  margin: 1.5rem;
+}
+
+.cell {
+}
+
+.cell:hover {
+  stroke: #46209466;
+}
+
+.tick {
+  
+}
+
+#tooltip {
+  background-color: #CDEEFDDD;
+  border: 1px solid #CDEEF2FF;
+  justify-content: center;
+  text-align: center;
+  margin: 0.1rem;
+  padding: 0.3rem;
+  position: absolute;
+  font-size: 0.7rem;
+}
+
+#legend {
+  background-color: #50E44A;
+}
+
+.axis-label {
+  font-size: 0.8rem;
+}
